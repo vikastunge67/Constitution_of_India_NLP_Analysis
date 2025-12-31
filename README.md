@@ -1,4 +1,5 @@
-#Transformer-Based NLP Analysis of the Constitution of India
+**Transformer-Based NLP Analysis of the Constitution of India
+**
 Project Overview
 
 This project performs an end-to-end Natural Language Processing (NLP) analysis of the Constitution of India using pretrained Transformer pipelines.
